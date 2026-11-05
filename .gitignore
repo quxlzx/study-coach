@@ -1,0 +1,8 @@
+# personal study data — never publish
+cards.json
+# manim build trees
+media/
+*.mp4
+*.png
+__pycache__/
+*.pyc

@@ -1,0 +1,41 @@
+{
+  "next_id": 4,
+  "cards": [
+    {
+      "id": 1,
+      "topic": "ML",
+      "front": "What does the gradient point in the direction of?",
+      "back": "Steepest ascent of the loss",
+      "source": "",
+      "ease": 2.6,
+      "interval": 1,
+      "reps": 1,
+      "due": "2026-11-06T09:00",
+      "created": "2026-11-05T15:00"
+    },
+    {
+      "id": 2,
+      "topic": "ML",
+      "front": "What happens if the learning rate is too high?",
+      "back": "Divergence — overshoots the minimum, loss explodes",
+      "source": "",
+      "ease": 2.5,
+      "interval": 0,
+      "reps": 0,
+      "due": "2026-11-05T15:00",
+      "created": "2026-11-05T15:00"
+    },
+    {
+      "id": 3,
+      "topic": "systems",
+      "front": "What is a page fault?",
+      "back": "A virtual memory page must be loaded from disk into RAM",
+      "source": "",
+      "ease": 2.5,
+      "interval": 0,
+      "reps": 0,
+      "due": "2026-11-05T15:00",
+      "created": "2026-11-05T15:00"
+    }
+  ]
+}
